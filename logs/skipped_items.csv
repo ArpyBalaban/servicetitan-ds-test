@@ -1,0 +1,15 @@
+customer_id,order_id,item_raw_id,reason
+3,7,,Missing critical item info
+8,15,,Missing critical item info
+8,15,3.0,Missing critical item info
+13,25,,Missing critical item info
+14,27,,Missing critical item info
+17,32,,Missing critical item info
+17,33,,Missing critical item info
+20,41,,Missing critical item info
+21,42,,Missing critical item info
+28,57,,Missing critical item info
+30,61,3.0,Missing critical item info
+36,70,,Missing critical item info
+39,80,,Missing critical item info
+42,87,,Missing critical item info

@@ -1,0 +1,7 @@
+customer_id,order_raw_id,reason
+1,,Missing or invalid order_id or order_date
+4,,Missing or invalid order_id or order_date
+18,,Missing or invalid order_id or order_date
+30,,Missing or invalid order_id or order_date
+36,70.0,Missing or invalid order_id or order_date
+40,,Missing or invalid order_id or order_date

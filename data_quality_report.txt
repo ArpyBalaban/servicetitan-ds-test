@@ -1,0 +1,17 @@
+=== Data Quality Summary ===
+Total customers processed: 50
+Customers skipped: 1
+Total orders processed: 99
+Orders skipped: 6
+Total items processed: 165
+Items skipped: 14
+VIP customers found: 10
+Zero-item orders (rows with NaN product_id): 28
+
+Category distribution:
+  Misc: 73 (37.82%)
+  Electronics: 29 (15.03%)
+  <NA>: 28 (14.51%)
+  Home Goods: 22 (11.40%)
+  Apparel: 21 (10.88%)
+  Books: 20 (10.36%)
